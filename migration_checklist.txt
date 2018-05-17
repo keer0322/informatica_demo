@@ -1,0 +1,7 @@
+## Informatica Migration Checklist 						##
+## FORMAT ::										##
+## Object Name | Object Type | Source Folder | Target Folder | Subject Area 	##
+## Please Enter Actual values, this file is case sensitive 			##
+## Please Enter Details after this line. Trim the data before adding		##
+w_m_load_cust_details|Workflow|DEMO_SOURCE|DEMO_TARGET|WRKF
+w_m_load_cust_details_1|Workflow|DEMO_SOURCE|DEMO_TARGET|WRKF
